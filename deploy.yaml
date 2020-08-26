@@ -46,7 +46,6 @@ spec:
   tls:
   - hosts:
     - todolist.cbrgm.net
-    - www.todolist.cbrgm.net
     secretName: todolist-demo-tls
   rules:
   - host: todolist.cbrgm.net
